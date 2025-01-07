@@ -21,7 +21,7 @@ function Footer() {
                     <FaLinkedin size={35} className='text-white'/>
                     <FaSquareInstagram size={40} className='text-white'/>
                 </div>
-                <div className='flex flex-row justify-center gap-2 pt-10'>
+                <div className='flex flex-row justify-center gap-1 pt-10'>
                     <FaPhone size={15}/>
                     <span className='pr-5'>+01 1234567890</span>
                     <MdEmail size={20} />
