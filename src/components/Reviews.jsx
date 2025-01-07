@@ -52,7 +52,7 @@ function Reviews() {
                 backgroundSize: 'cover'
             }
         }>
-            <div className='lg:w-[1240px] mx-auto px-32 my-20'>
+            <div className='lg:w-[1240px] mx-auto lg:px-32 px-2 md:px-10 my-20'>
                 <div >
                     <div>
                         <h1 className='capitalize font-bold text-4xl pb-3'>What customers say</h1>
