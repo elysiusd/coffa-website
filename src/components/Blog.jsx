@@ -7,7 +7,7 @@ function Blog() {
     
     return (
         <section className='w-full'>
-            <div className='lg:w-[1240px] mx-auto lg:px-32 px-20 mt-10'>
+            <div className='lg:w-[1240px] mx-auto lg:px-32 md:px-10 px-2 mt-10'>
                 <div>
                     <h1 className='uppercase text-4xl font-mono font-bold mb-14'>Our blog</h1>
                 </div>
