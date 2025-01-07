@@ -80,7 +80,7 @@ function Menu() {
                                 ))}
                 </Slider>
             </div>
-            <div className='hidden md:flex lg:hidden flex-col mx-auto px-20 my-10'>
+            <div className='hidden md:flex lg:hidden flex-col mx-auto px-10 my-10'>
             <Slider {...MDsettings} className=''>
                                 {menuData.map((menuD, index) => (
                                     <div key={index} className='flex flex-col items-center text-white justify-center text-center'>
@@ -94,7 +94,7 @@ function Menu() {
                                 ))}
                 </Slider>
             </div>
-            <div className='md:hidden flex flex-col mx-auto px-20 my-10'>
+            <div className='md:hidden flex flex-col mx-auto px-2 my-10'>
             <Slider {...SMsettings} className=''>
                                 {menuData.map((menuD, index) => (
                                     <div key={index} className='flex flex-col items-center text-white justify-center text-center'>
